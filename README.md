@@ -18,7 +18,7 @@ This project implements a deep learning model to classify traffic signs using a 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ziadimaish-Dimensions/Traffic-Signs-Recognition.git
+   git clone https://github.com/ziadtimaish/Traffic-Signs-Recognition.git
    cd Traffic-Signs-Recognition
 
 2. Download the Dataset:
